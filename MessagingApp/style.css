@@ -1,0 +1,63 @@
+body {
+  background-color:#84d184;
+}
+
+.container {
+  margin: 60px auto;
+  background: #ffffff;
+  padding: 0;
+  border-radius: 10px;
+}
+
+.profile-image {
+  width: 75px;
+  height: 75px;
+  border-radius: 60px;
+  padding:10px;
+}
+
+
+
+.friend-list {
+  padding: 10px 15px;
+  display: flex;
+  vertical-align: baseline;
+  background: #fff;
+}
+  
+h6 {
+      margin-top: 6px;
+      margin-bottom: 0;
+}
+    
+p {
+      margin: 0;
+    
+}
+  
+.time {
+    color: grey;
+  
+}
+
+hr {
+  margin: 5px auto;
+  width: 50%;
+}
+
+.chat-bubble {
+  padding: 10px 14px;
+  background: #eee;
+  margin: 10px 30px;
+  border-radius: 9px;
+  position: relative;
+  
+  
+}
+
+.filler{
+  padding: 5px;
+}
+
+
+
